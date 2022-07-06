@@ -5,3 +5,4 @@ The game has been copied from https://github.com/attreyabhatt/Space-Invaders-Pyg
 I just added the handtracking part. 
 
 Not that it is difficult to code a space-invader, I copied it because it is time-consuming.
+For an example of the result, please visit http://www.pezeuy.com/gallery
